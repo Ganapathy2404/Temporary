@@ -1,0 +1,37 @@
+------------
+cloud compution also known as on-demand computing is an internet based
+computing where shared informations are provided to computers,another devices
+on demand.
+
+It relys on sharing of resources.
+
+Resources are dynamically reallocated.
+
+characteristics of cloud:-
+1.On-demand self service
+2.Rapid elasticity
+3.Network access
+4.Resource pooling
+5.Measured Service
+
+New style of delevering IT
+
+Most common service model:-
+Infrastructe as a Service(IaaS)-Processing,Memory,Storage,N/w in the form of a machine
+Platform as a Service(PaaS)-For Developers(Pivotal Cloud Foundry,IBM Bluemix,AWS Elastic Beanstalk,Azue PaaS,Google App Engine)
+Software as a Service(Saas)-provides one or more appln to a user in a PC.
+Bussiness Process as a Service(BPaas)-Cloud-native application
+
+Cloud Deployment Module:-
+
+1.Public cloud
+2.Virtual Private Cloud(VPC)
+3.Private cloud (on premises or third party data center)
+4.Hybrid Cloud
+	
+-----------------
+
+xaas-Any cloud based Service
+
+
+
