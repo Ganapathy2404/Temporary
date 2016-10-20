@@ -1,0 +1,110 @@
+cloud
+Innovation:
+Ability to stand up environments, to
+experiment, learn, develop and close down
+immediately without capital investment
+
+Agility & Speed to Market:
+CEM, social media, analytics, mobility tools to
+ensure the agility to quickly identify and
+exceed consumer expectations
+
+Efficiency & Automation:
+IaaS and PaaS to enhance efficiency through
+automation by for example automatic upgrades
+
+Assurance:
+The assurance of more effective security
+features through for example IDaaS
+
+Control:
+More effective controls and compliance through
+more effective data gathering, storage and
+retrieval from IaaS and PaaS
+------------------------------------
+Benefits of Cloud:
+1.Improve business performance:
+Competitive advantage through access to
+leading edge and best of breed business
+applications and Business Technology
+solutions (e.g. marketing, analytics, retail,
+IoT)
+
+2.Improve business agility
+Competitive advantage through ability to
+provision and change custom IT services
+quickly and reliably at low risk and cost
+
+3.Rationalise a legacy application estate
+Use the standardization provided by
+the Cloud as an opportunity to
+rationalise applications, through
+consolidation onto Cloud standard
+technologies
+
+4.Improve quality of application services
+Use cloud infrastructure to overcome
+limitations of hosted services.
+Performance, scalability and resilience
+are the qualities most often sought
+after
+
+5.Gain IT cost flexibility
+Use the economies of scale provided
+by the cloud to realize sustainable
+lower infrastructure and ITSM costs
+-----------------------------
+
+Barriers:
+1.Improve business performance(50%):
+Say that Cloud globally had positive
+effects but did not fulfill their expectations
+and 33% considered Cloud solutions did
+not achieve their initial goals and broke
+their promise
+
+2.Improve business agility(36%):
+Faced difficulties when implementing
+their Cloud strategy
+
+3.Rationalise a legacy application estate(54%)
+Considered Cloud integration with
+existing systems as one of the biggest
+problems when implementing a Cloud
+strategy
+
+4.Improve quality of application services(55%)
+Are now spending more than they
+were before moving to the Cloud.
+Main unexpected expense are
+maintenance (40%), system
+integration (37%), staff payroll (33%)
+
+5.Gain IT cost flexibility(81%)
+Faced unexpected spending and 37%
+did not achieve financial savings nor
+reduce their daily IT staff workload
+
+--------------------------------------
+Advantages:
+1.Flexibility
+We help you avoid vendor lock-in, continually optimise usage, and create a platform
+which serves as a strategic foundation to build upon in the future.
+
+2.Speed
+Thanks to our methodologies we bring to assessing the applications portfolio, migrating
+workloads and developing cloud-native applications, we compress the cycle time
+relative to other providers.
+
+3.Security
+Our integrated end-end Cloud Cyber Security approach helps you manage risk, protect
+data, and safeguard intellectual property.
+
+4.Results – Reduce risks
+Thanks to our experience and methodologies, at the moment of truth when your
+systems go live, you do not want to encounter unexpected issues.
+
+5.Business led delivery focus
+We work collaboratively with you, bringing our deep understanding of your business and
+our proven Cloud capabilities, to deliver change quickly and of high quality
+

@@ -1,0 +1,27 @@
+Cloud Founty:
+Open source platformed service offered by several Paas operators.
+Choice of Development Framework.
+Development of Web Application
+Choice of Appln. Services.
+IaaS can also be chosen.
+
+-Prebuild services:
+Data Cache, Devops autoscaling,DevOPs delivery Pipeline,
+mobile push notifications, Secure Gateway,SSo& SQL.
+
+-IDE
+-Prebuilt Security Features.
+------
+Create Applns more quickly.
+
+
+-----------------------------------
+Virtualization is the first sterp towards a cloud evvironment.
+Self Service portals
+It service  catlog
+Sevices  orchestration
+Automation provisioning
+
+
+
+
