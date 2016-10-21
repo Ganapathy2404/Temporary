@@ -1,0 +1,130 @@
+cloud vendors:
+	salesforce
+	cloud Foundry
+	virtustream
+	IBM
+	EMC2
+	AWS
+-------------------------------
+IaaS is considered to be of minimum capability for public or enterprise private cloud.
+Application transformation is a longer term goal.
+
+
+Types of application:
+1.Cloud-native applications(Cloud-enabled applications)
+	Remain online in outages
+	Scale to meet demand
+	Provisioned on demand    (Consist of composible services designed to be dynamic,Discover and dynamically 
+                                 register services ratehr than hard-coded mapping or static configuration.)
+
+2.Commercial Off The Shelf:
+Developers re-write their code close to fit it into an multi adoptable environment 
+and to depth their licensing model.
+
+3.Open source:
+The souce program code is publised to enable customization and can be adoptd for cloud environment.
+
+4.Custom Application:
+Enable transition of the programs
+
+-------------------------------------------------
+Characteristics of an application to be hosted on a cloud Application:
+1.Secure multi-tenancy.
+	Application is configarable so that multiple customers can share the
+	same instance of it while maintaining separation of all data and user accounts.
+
+	Customers and users within the shares application instance can't see one another nor
+	any data other than their own by using the following:
+		
+		1.1.Secure Access Control Lists(ACLs)
+		1.2.Role-based  permission
+		1.3.Separation of database
+
+2.Elasticity:
+	Applications should be elastic in traffic demand and usage increase.
+	(Apllications can scale-out to handle an  increase in work-load utilization)
+	
+	To scale out means to automatically detect high-utilization and trigger the necessary steps to
+	start up new virtual machines or application services to handle peak work-loads.
+
+	Legacy applications that are not specifically designed to run in a virtual machine to monitor process 
+	and memory utilization trigerring more virtual machine instances when a manually defined peak threshold utilization is drained.
+
+	This elasticity technique makes it possible for the appliccations to take advantage of the power of cloud infrastructure
+	to scale dynamically.
+
+3.Resiliency:
+	Allows applications to survive and remain online during an infrastructure outage or failure.
+
+	A properly designed cloud native application which have multiple techniques to fail transactions and have
+	multiple instances of teh application services running on other virtual machines.
+
+	Legacy applications that are not specifically designed for the cloud can use tools with cloud infrastruce such
+	as traffic load balancing, but these are not effective for the transparent end user as a cloud-native applications.
+
+4.Universal access/ubiquitous access and persistent data:
+	The applications must be accesible from any where on the internet.
+
+	Should be compatable with with any access methods foe web based access,virtual private n/w access.
+
+	User data must be immediately available moving from one computing data to the other.
+
+5.Multi-tiered applications:
+	Many cloud application apply a multi-tired design wherein there are multiple layers or tires of services.
+	
+	These tiers separate the following:
+		
+		5.1.Back-end database
+		5.2.Middleware and applications
+		5.3.Front-end processing
+
+They provide high end security, upgradable modularity, Independent scalability
+
+--------------------------------------------------------------------
+
+Application modenization Statergy to migrate Legacy applications to cloud :
+
+1.Re-host leveraging IaaS or PaaS(lift and shift to a cloud platform)
+	
+	A copy and re-install technique to take relatively simple legacy applications and host them in the cloud.
+	Testing and minor configuration changes are often required
+
+2.Re-factor to add cloud-native applications feature
+	
+	Can be acheived by adding some cloud features to legacy applications.
+
+3.Replace leveraging SaaS
+
+4.Re-write(re-designing a complex, bespoke application)
+	Some Legacy applications are so much critical an dnedd to be re-written.
+
+Establish the best approch for each application.
+
+---------------------------------------------------------
+Automation(Minimizing manual processes):
+Cloud management platform enables automation.
+Allows resource tracking.
+
+Key elements of a cloud management solution:-
+1.Multi-tenant online ordering
+2.Approval workflows
+3.Customized automatic provisioning
+4.Resource utilization and financial tracking
+5.Self-service application administration.
+6.Reporting
+
+High level functional cloud management layers:-
+1.Cloud web protal
+	It services catalogs,order placement,subscription management and tracking
+2.Automation,orchestration,workflow,resource management
+3.Network management
+	Systems monitoring,security,capacity management
+4.Virtualization	
+
+
+
+
+
+
+
+
